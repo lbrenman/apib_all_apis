@@ -29,7 +29,7 @@
 		"@axway/api-builder-runtime": "^5.0.0",
 		"api-builder-plugin-comprehend-sdk": "^1.0.8",
 		"api-builder-plugin-rekognition": "^1.0.9",
-		"api-builder-plugin-translatetext": "file:../../Dropbox/Work/Current Projects/App Integration/APIB/Plugins/API Builder Translate Custom Flow Node/api-builder-plugin-translatetext"
+		"api-builder-plugin-translatetext": "^1.0.4"
 	},
 	"devDependencies": {
 		"@axway/api-builder-admin": "^5.0.0",
